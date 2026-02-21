@@ -5,7 +5,7 @@
 ---
 
 ## 🛠️ Skills & Tools
-- Programming (learning) : Python 🐍 | C ⚡ | Java ☕  
+- Programming (learning) : Python 🐍 | C ⚡  
 - Interests: Artificial Intelligence, Machine Learning, and Data Structures  
 - Tools: Git, GitHub  
 
