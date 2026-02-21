@@ -21,7 +21,7 @@
 ## 🚀 Currently Learning
 - Data Structures & Algorithms (C/Python)  
 - Error Handling & File Management  
-- Basics of Java (for AI Lab in college)  
+- Basics of Machine Learning
 
 ---
 
