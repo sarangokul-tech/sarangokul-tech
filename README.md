@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sarangokul  
 
-🎓 AIDS Student | 💻 Aspiring AI Engineer | 🚀 Exploring Python, C & Java  
+🎓 AIDS Student at Bannari Amman Institute of Technology | 💻 Aspiring AI Engineer | 🚀 Exploring Python, C & Java  
 
 ---
 
@@ -32,19 +32,3 @@
 ---
 
 ⭐ *“Code is like humor. When you have to explain it, it’s bad.”*  
-
-
-<!--
-**sarangokul-tech/sarangokul-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
